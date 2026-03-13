@@ -38,3 +38,7 @@ temp/
 !insurance.csv
 !model.pkl
 !.gitignore
+
+# Exclude documentation
+BRIEF.txt
+GITHUB_DESCRIPTION.txt
