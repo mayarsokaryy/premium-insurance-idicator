@@ -34,6 +34,7 @@ temp/
 # Keep these files
 !train_model.py
 !app.py
+!requirements.txt
 !insurance.csv
 !model.pkl
 !.gitignore
@@ -41,4 +42,3 @@ temp/
 # Exclude documentation
 BRIEF.txt
 GITHUB_DESCRIPTION.txt
-requirements.txt
